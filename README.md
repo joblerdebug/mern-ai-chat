@@ -19,7 +19,7 @@ This project is a ChatBot application built using the MERN stack (MongoDB, Expre
 
 ## Features
 
-- **Natural Language Processing:** Utilizes the OpenAI API to understand and respond to user input.
+- **Natural Language Processing :** Utilizes the OpenAI API to understand and respond to user input.
 - **User Authentication:** Secure user login and registration using JWT tokens and encrypted passwords.
 - **Message History:** Stores user messages in a database, allowing for message retrieval and deletion.
 - **Middleware Chains:** Protects routes and handles errors effectively.
